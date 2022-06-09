@@ -1,0 +1,54 @@
+body {
+  font-size: 30px;
+  margin-top: 15px;
+  margin-left: 20px;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 60px;
+  color: red;
+  margin: 40px 0px;
+}
+
+h2 {
+  padding: 5px;
+  background: green;
+  color: white;
+}
+
+.blockOne {
+  background: blue;
+  color: white;
+  width: 200px;
+}
+
+.blockTwo {
+  margin-top: 150px;
+}
+
+.redString {
+  color: red;
+}
+
+.someSpace {
+  padding: 80px 0px 80px 60px;
+}
+
+.someSpaceAgain {
+  margin-left: 150px;
+}
+
+input,
+button {
+  font-size: 25px;
+}
+
+.list {
+  margin: 50px;
+}
+
+ul.list li {
+  font-size: 60px;
+  border: 2px solid black;
+}
